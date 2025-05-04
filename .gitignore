@@ -175,3 +175,6 @@ cython_debug/
 
 # Data from binance:
 data/
+
+# Merged parquet of 100 first files:
+notebooks/all_symbols_1s_combined_sorted.parquet
